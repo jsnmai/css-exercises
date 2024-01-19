@@ -1,0 +1,14 @@
+.monotone,
+.colored {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.monotone {
+    background-color: black;
+    color: white;
+}
+
+.colored {
+    background-color: yellow;
+}
